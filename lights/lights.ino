@@ -62,7 +62,7 @@ void loop() {
       break;
     default:
       disconnectedLights();
-
+      break;
 
   }
   // put your main code here, to run repeatedly:
